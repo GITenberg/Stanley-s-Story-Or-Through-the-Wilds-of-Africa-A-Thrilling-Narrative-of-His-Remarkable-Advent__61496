@@ -1,0 +1,26 @@
+_repo: Stanley-s-Story-Or-Through-the-Wilds-of-Africa-A-Thrilling-Narrative-of-His-Remarkable-Advent__61496
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Feather, A. G., Col.
+    gutenberg_agent_id: '51464'
+    url: http://www.gutenberg.org/2009/agents/51464
+description: ''
+gutenberg_issued: '2020-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61496'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa, Central -- Description and travel'
+- !lcsh 'Stanley, Henry M. (Henry Morton), 1841-1904'
+- !lcc 'DT'
+- !lcsh 'Livingstone, David, 1813-1873'
+- GITenberg
+title: "Stanley's Story; Or, Through the Wilds of Africa\r\nA Thrilling Narrative\
+  \ of His Remarkable Adventures, Terrible Experiences, Wonderful Discoveries and\
+  \ Amazing Achievements in the Dark Continent"
+url: http://www.gutenberg.org/ebooks/61496
